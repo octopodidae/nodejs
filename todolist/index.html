@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Socket.io</title>
+    <style>
+
+    </style>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+</head>
+
+<body>
+
+<script src="socket.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+
+    var myName="Bertrand";
+    var socket= io.connect('http://178.62.18.212:3000/');
+
+    socket.on('server', function(data) {
+        console.log(data);
+    });
+
+    socket.emit('client', myName, 'Yo !');
+
+</script>
+
+</body>
+</html>
+

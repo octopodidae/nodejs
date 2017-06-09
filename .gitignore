@@ -1,2 +1,4 @@
-/node_modules
+/node_modules/
 /.idea/
+/todolist/node_modules/
+/todolist/.idea/
