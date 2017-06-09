@@ -1,0 +1,186 @@
+installer les différents modules avec npm
+
+Bertrand@DESKTOP-J325SN0 MINGW32 ~/Desktop/blog
+$ history
+    1  node -v
+    2  node Server.js
+    3  node Server.js
+    4  npm install nodemon
+    5  npm init
+    6  npm i bootstrap
+    7  npm i --save
+    8  npm i --save  bootstrap
+    9  npm -i -g nodemon
+   10  npm i -g nodemon
+   11  history
+Bertrand@DESKTOP-J325SN0 MINGW32 ~/Desktop/blog
+$ history
+    1  nodemon
+    2  nodemon server.js
+    3  npm start
+    4  node server.js
+    5  nodemon server.js
+    6  node server.js
+    7  history
+Bertrand@DESKTOP-J325SN0 MINGW32 ~/Desktop/blog
+$ history
+    1  nodemon
+    2  nodemon server.js
+    3  npm start
+    4  node server.js
+    5  nodemon server.js
+    6  node server.js
+    7  history
+    8  node server.js
+    9  node server.js
+   10  node server.js
+   11  nodemon server.js
+   12  nodemon server.js
+   13  nodemon server.js
+   14  nodemon server.js
+   15  nodemon server.js
+   16  nodemon server.js
+   17  nodemon server.js
+   18  nodemon server.js
+   19  nodemon server.js
+   20  nodemon server.js
+   21  nodemon server.js
+   22  nodemon server.js
+   23  nodemon server.js
+   24  nodemon server.js
+   25  nodemon server.js
+   26  nodemon server.js
+   27  nodemon server.js
+   28  nodemon server.js
+   29  nodemon server.js
+   30  nodemon server.js
+   31  nodemon server.js
+   32  nodemon server.js
+   33  nodemon server.js
+   34  mongo --version
+   35  nodemon server.js
+   36  nodemon server.js
+   37  node test.js
+   38  node server.js
+   39  node server2.js
+   40  node server2.js
+   41  node server2.js
+   42  node server2.js
+   43  node server2.js
+   44  node server2.js
+   45  node server2.js
+   46  node server2.js
+   47  node server2.js
+   48  node server2.js
+   49  node server2.js
+   50  node server2.js
+   51  node server2.js
+   52  node server2.js
+   53  node server2.js
+   54  node server2.js
+   55  node server2.js
+   56  node server2.js
+   57  node apiRest.js
+   58  npm i express --save
+   59  history
+
+
+$ history
+    1  nodemon
+    2  nodemon server.js
+    3  npm start
+    4  node server.js
+    5  nodemon server.js
+    6  node server.js
+    7  history
+    8  node server.js
+    9  node server.js
+   10  node server.js
+   11  nodemon server.js
+   12  nodemon server.js
+   13  nodemon server.js
+   14  nodemon server.js
+   15  nodemon server.js
+   16  nodemon server.js
+   17  nodemon server.js
+   18  nodemon server.js
+   19  nodemon server.js
+   20  nodemon server.js
+   21  nodemon server.js
+   22  nodemon server.js
+   23  nodemon server.js
+   24  nodemon server.js
+   25  nodemon server.js
+   26  nodemon server.js
+   27  nodemon server.js
+   28  nodemon server.js
+   29  nodemon server.js
+   30  nodemon server.js
+   31  nodemon server.js
+   32  nodemon server.js
+   33  nodemon server.js
+   34  mongo --version
+   35  nodemon server.js
+   36  nodemon server.js
+   37  node test.js
+   38  node server.js
+   39  node server2.js
+   40  node server2.js
+   41  node server2.js
+   42  node server2.js
+   43  node server2.js
+   44  node server2.js
+   45  node server2.js
+   46  node server2.js
+   47  node server2.js
+   48  node server2.js
+   49  node server2.js
+   50  node server2.js
+   51  node server2.js
+   52  node server2.js
+   53  node server2.js
+   54  node server2.js
+   55  node server2.js
+   56  node server2.js
+   57  node apiRest.js
+   58  npm i express --save
+   59  history
+   60  node api.js
+   61  node api.js
+   62  node api.js
+   63  npm install jade
+   64  node api.js
+   65  node api.js
+   66  node api.js
+   67  node api.js
+   68  node api.js
+   69  node api.js
+   70  node api.js
+   71  npm install jade-bootstrap --save
+   72  npm install jade-bootstrap --save
+   73  node api.js
+   74  node api.js
+   75  node api.js
+   76  node api.js
+   77  node api.js
+   78  node api.js
+   79  npm install jade-bootstrap
+   80  node api.js
+   81  node api.js
+   82  node api.js
+   83  node api.js
+   84  node api.js
+   85  node api.js
+   86  node api.js
+   87  node api.js
+   88  node api.js
+   89  node api.js
+   90  node api.js
+   91  node api.js
+   92  node api.js
+   93  node api.js
+   94  npm i compression --save
+   95  npm i compression --save$
+   96  cls
+   97  history
+
