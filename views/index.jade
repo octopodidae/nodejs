@@ -1,0 +1,24 @@
+extends layout
+
+block content
+	div.container
+		br
+		br
+		br
+		h1 Be Fruit !
+		br
+		ul
+			each article in articles
+				div
+					h2 #{article.title}
+					div #{article.content}
+					a.btn.btn-danger.btn-sm.glyphicon.glyphicon-remove(href="/article-remove/" + article.slug)
+			form(name="form-article", method="post", action="/nouveau-article")
+				.form-group
+					label Title
+					input(class="form-control" type="text", name="title")
+				.form-group
+					label Content
+					input(class="form-control" type="textarea", name="content")
+				.form-group
+					input(class="form-control btn btn-primary" type="submit", value="add")

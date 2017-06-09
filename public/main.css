@@ -1,0 +1,12 @@
+html {
+    color: #FFF;
+    font-size: 18px;
+}
+nav {
+    padding: 15px 15px;
+}
+
+
+.navbar-header {
+    float: left;
+}
